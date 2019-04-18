@@ -1,4 +1,4 @@
-цХ░цНох║УшпнхПе
+╒т╩╟╩¤╛▌┐т╙я╛ф
 CREATE TABLE USER (
   ID INT NOT NULL AUTO_INCREMENT,
   NAME VARCHAR(40) NOT NULL,
